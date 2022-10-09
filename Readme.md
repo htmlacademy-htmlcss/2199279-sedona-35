@@ -1,6 +1,6 @@
 # Личный проект «Седона»
 
-* Студент: [](https://up.htmlacademy.ru/profession/frontender/15/htmlcss/35/user/2176143).
+* Студент: [Радченко Ростислав](https://up.htmlacademy.ru/profession/frontender/15/htmlcss/35/user/2176143).
 * Наставник: `Неизвестно`.
 
 ---
