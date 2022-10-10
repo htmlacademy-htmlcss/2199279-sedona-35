@@ -1,6 +1,6 @@
 # Личный проект «Седона»
 
-* Студент: [Абрамова Александра](https://up.htmlacademy.ru/htmlcss/35/user/2199279).
+* Студент: [Абрамова Александра](https://htmlacademy.ru/profile/id2199279).
 * Наставник: `Зольников Алексей`. https://htmlacademy.ru/profile/id870391
 
 ---
