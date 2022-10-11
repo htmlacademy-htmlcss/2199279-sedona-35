@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss/35/user/2199279).
-* Наставник: `Неизвестно`.
+* Студент: [Абрамова Александра](https://up.htmlacademy.ru/htmlcss/35/user/2199279).
+* Наставник: `Зольников Алексей`. https://htmlacademy.ru/profile/id870391
 
 ---
 
